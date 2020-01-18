@@ -1,6 +1,6 @@
 package homework04_01;
 
-public class Homework04Task03 {
+public class Homework4Task03 {
     static void changeToString(int x){
         String str = "" + x;
         char firstChar = str.charAt(str.length()-1);
